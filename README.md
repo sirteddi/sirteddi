@@ -9,7 +9,7 @@
 
 <p align="center">
 🌱 currently studying IT (Master) @TechnischeHochschuleMittelhessen <br>
-🎓 finfished my Bachelor in Digital Media Systems in mid 2025 <br>
+🎓 finished my Bachelor in Digital Media Systems in mid 2025 <br>
 💼 working @onemedialis in web development <br>
 👀 interested in Web Development, the Apple Ecosystem, enjoying life!
 </p>
