@@ -1,6 +1,6 @@
 <div align="center">
 
-## ✌🏻 Hey there! I'm Annalena / teddy 🧸
+## ✌🏻 Hey there! I'm Annalena / teddi 🧸
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annalena-s-15ab09315/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.schaefer@gmail.com?subject=Hello%20Annalena,%20From%20Github) &nbsp;
@@ -44,9 +44,25 @@
 ### 🛠️ Tools I use daily
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🏠 Self-Hosted / Infrastructure
+
+- 🖥️ Running services on a self-hosted NAS environment
+- 🐳 Containerized applications using Docker & Docker Compose
+- 🌐 Reverse proxy setup with HTTPS & domain routing
+- ☁️ DNS management & dynamic IP handling (Cloudflare)
+- 🔐 Secure remote access (VPN-based)
+- 📊 Monitoring & uptime tracking
+
+### 🛠️ Tech
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## 🏆 My Stats:
 
