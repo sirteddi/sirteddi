@@ -11,7 +11,7 @@
 🌱 currently studying IT (Master) @TechnischeHochschuleMittelhessen <br>
 🎓 finished my Bachelor in Digital Media Systems in mid 2025 <br>
 💼 working @onemedialis in web development <br>
-👀 interested in Web Development, the Apple Ecosystem, enjoying life!
+👀 interested in Web Development, Self-Hosting & the Apple Ecosystem
 </p>
 
 <div align="center">
@@ -29,7 +29,6 @@
 ### Languages I know pretty well
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -46,23 +45,24 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🏠 Self-Hosted / Infrastructure
 
-- 🖥️ Running services on a self-hosted NAS environment
-- 🐳 Containerized applications using Docker & Docker Compose
-- 🌐 Reverse proxy setup with HTTPS & domain routing
-- ☁️ DNS management & dynamic IP handling (Cloudflare)
-- 🔐 Secure remote access (VPN-based)
-- 📊 Monitoring & uptime tracking
-
-### 🛠️ Tech
-
+![UGREEN NAS](https://img.shields.io/badge/UGREEN-NAS%20Homelab-2E7D32?style=for-the-badge&logo=data&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+🖥️ Running services on a self-hosted NAS environment  
+
+🐳 Containerized applications using Docker & Docker Compose  
+
+🌐 Reverse proxy setup with HTTPS & domain routing  
+
+☁️ DNS management & dynamic IP handling (Cloudflare)  
+
+🔐 Secure remote access (VPN-based)  
+
+📊 Monitoring & uptime tracking
 
 ## 🏆 My Stats:
 
